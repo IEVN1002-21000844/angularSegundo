@@ -1,12 +1,12 @@
 import { Component } from '@angular/core';
 
 @Component({
-  selector: 'app-zodiaco',
+  selector: 'app-sign-up',
   standalone: true,
   imports: [],
-  templateUrl: './zodiaco.component.html',
+  templateUrl: './sign-up.component.html',
   styles: ``
 })
-export class ZodiacoComponent {
+export default class SignUpComponent {
 
 }
